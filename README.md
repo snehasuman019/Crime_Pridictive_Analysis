@@ -1,6 +1,9 @@
 # 🚔 Crime Predictive Analytics Dashboard
 An interactive **Machine Learning Dashboard** built using **Python, Streamlit, and Scikit-learn** to analyze, visualize, and predict crime patterns using real-world crime data.
 ---
+Live Link :-
+https://crimepridictiveanalysis-qjelg5k5ghosk9rrtsaznm.streamlit.app/
+---
 ## 📌 Project Overview
 This project demonstrates the complete **Predictive Analytics workflow**, including:
 - Data preprocessing & exploration
